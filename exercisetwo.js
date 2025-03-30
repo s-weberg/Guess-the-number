@@ -9,7 +9,7 @@ function generateRandomArray(length = 100) {
     return randomArray;
 }
 
-
+console.log(generateRandomArray(5));
 
 
 
